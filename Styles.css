@@ -1,0 +1,42 @@
+header {
+    color: red;
+}
+div {
+    background-color: black;
+    border: 1rem;
+    margin: 16px;
+    padding: 10px;
+}
+
+[header = "attribute-value"] {
+    color: pink;
+}
+
+#aqua {
+    color: aqua;
+}
+
+footer {
+    color: black;
+}
+
+.final[statement]{
+    color:blueviolet;
+}
+
+#global{
+    color: hotpink;
+}
+
+.List > li{
+    color: peachpuff;
+}
+
+.List > ul{
+    color: greenyellow;
+}
+
+.table {
+    color: white;
+}
+
